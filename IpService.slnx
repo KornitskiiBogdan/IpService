@@ -1,0 +1,10 @@
+<Solution>
+  <Project Path="IpService.Contracts/IpService.Contracts.csproj" />
+  <Project Path="IpService.Cqrs/IpService.Cqrs.csproj" Id="c3b23e75-7e58-4a4c-80a1-3c1c04dcfb4e" />
+  <Project Path="IpService.Dal.Ef/IpService.Dal.Ef.csproj" />
+  <Project Path="IpService.Dal/IpService.Dal.csproj" />
+  <Project Path="IpService.Domain/IpService.Domain.csproj" />
+  <Project Path="IpService.Host/IpService.Host.csproj" />
+  <Project Path="IpService.Service/IpService.Service.csproj" />
+  <Project Path="IpService.Tests.Integration/IpService.Tests.Integration.csproj" Id="2c62905e-687f-4883-8d00-49c7129dc0e7" />
+</Solution>
