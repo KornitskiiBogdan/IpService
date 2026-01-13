@@ -129,7 +129,6 @@ app.UseRouting();
 
 app.MapControllers();
 
-// 5. Run the application
 await app.RunWithMigrationAsync();
 
 public partial class Program { }
